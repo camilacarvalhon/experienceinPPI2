@@ -3,7 +3,7 @@ from perfis.models import Perfil
 
 
 def index(request):
-    return render(request, 'index.html')
+    return render(request, 'index.html', { 'perfis' : Perfil.objects.all()})
 
 
 def exibir(request, perfil_id):
