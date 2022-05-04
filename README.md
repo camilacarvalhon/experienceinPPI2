@@ -1,8 +1,8 @@
-Projeto - PPI2
-# Pratica-integrada-CD-e-AM-2021.2
+## Projeto - PPI2
 
 1. [Sobre o Projeto](#sobre-o-projeto)
     * [Dependências](#Dependências)
+    * [Autores](#Autores)
 
 ## Sobre o Projeto
 
@@ -16,7 +16,7 @@ Repositório criado para a disciplina de programação para internet 2.
 - Css
 - Bootstrap
 
-## Autor
+### Autores
 
 - Camila Carvalho 
 
