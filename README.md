@@ -2,7 +2,7 @@ Projeto - PPI2
 # Pratica-integrada-CD-e-AM-2021.2
 
 1. [Sobre o Projeto](#sobre-o-projeto)
-    * [Construído com](#Dependências)
+    * [Dependências](#Dependências)
 
 ## Sobre o Projeto
 
