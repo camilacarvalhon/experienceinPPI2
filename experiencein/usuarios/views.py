@@ -12,9 +12,6 @@ class RegistrarUsuarioView(View):
             return render(request, self.template_name)
 
         def post(self, request):
-            return render(request, self.template_name)
-
-        def post(self, request):
 
         #preenche o from
             form = RegistrarUsuarioForm(request.POST)
@@ -37,7 +34,7 @@ class RegistrarUsuarioView(View):
                 perfil.save()
 
             #redireciona para index
-            return redirect('index')
+                return redirect('index')
 
         #so chega aqui se nao for valido
         #vamos devolver o form para mostrar o formulario preenchido 
