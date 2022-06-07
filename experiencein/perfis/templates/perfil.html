@@ -17,11 +17,18 @@
                 <abbr title="Telefone">Tel:</abbr> {{perfil.telefone}}<br>
                 <a href="mailto:{{perfil.email}}">{{perfil.email}}</a>
             </address>
-            {% if ja_e_contato %}
-                <div class="well well-sm">Vocês estão conectados!</div>
+
+            <!-- Verificar se tem permissao -->
+            {% if tem_permissao %}
+                {% if ja_e_contato %}
+                    <div class="well well-sm">Vocês estão conectados!</div>
+                {% else %}
+                    <a href="{% url 'convidar' perfil.id %}" class="btn btn-success" role="button">convidar</a>
+                {% endif %}
             {% else %}
-                <a href="{% url 'convidar' perfil.id %}" class="btn btn-success" role="button">convidar</a>
+                <div class="well well-sm">Vocês não tem permissão para fazer convite!</div>
             {% endif %}
+
         </div>
     </div>
     {% endblock %}
