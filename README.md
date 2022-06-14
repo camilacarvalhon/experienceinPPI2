@@ -4,19 +4,21 @@
     * [Dependências](#Dependências)
     * [Autores](#Autores)
 
-## Sobre o Projeto
+## :rocket: Sobre o Projeto
 
 Repositório criado para a disciplina de programação para internet 2.
-### Dependências 
+
+
+### :hammer_and_wrench: Dependências 
 
 - Python 3
 - Pip
 - Django 2.2
 - Html
-- Css
+- CSS
 - Bootstrap
 
-### Autores
+### :smiley:  Autores
 
 - Camila Carvalho 
 
