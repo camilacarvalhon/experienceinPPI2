@@ -19,7 +19,7 @@ Repositório criado para a disciplina de programação para internet 2.
 - CSS
 - Bootstrap
 
-### :smiley:  Autores
+### :woman_student:  Colaboradora
 
 - Camila Carvalho 
 
