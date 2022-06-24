@@ -48,11 +48,12 @@ cd experienceinPPI2
  python manage.py runserver
 ```
 
-### :reload: Como fazer o deploy da aplicação
+### :setting: Como fazer o deploy da aplicação
 
 Acesse a documentação para realizar o deploy
 
 [Documentação](https://github.com/camilacarvalhon/experienceinPPI2/blob/main/documentos/Documento%20de%20implanta%C3%A7%C3%A3o-%20PPI2.pdf)
+
 ### :woman_student:  Colaboradora
 
 - Camila Carvalho 
