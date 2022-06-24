@@ -21,7 +21,7 @@ Repositório criado para a disciplina de programação para internet 2.
 - CSS
 - Bootstrap
 
-### :reload: Como executar aplicação na sua máquina 
+### :wrench: Como executar aplicação na sua máquina 
 
 Com as dependências instaladas corretamente na máquina, execute os comandos a seguir:
 
@@ -48,7 +48,7 @@ cd experienceinPPI2
  python manage.py runserver
 ```
 
-### :setting: Como fazer o deploy da aplicação
+### :hammer: Como fazer o deploy da aplicação
 
 Acesse a documentação para realizar o deploy
 
