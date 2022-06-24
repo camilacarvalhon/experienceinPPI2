@@ -31,7 +31,7 @@ Com as dependências instaladas corretamente na máquina, execute os comandos a 
 git clone https://github.com/camilacarvalhon/experienceinPPI2.git
 ```
 
-2º Pelo terminal acesse a pasta da aplicação usando o cd
+2º Pelo terminal acesse a pasta da aplicação usando o comando cd
 
 ```
 cd experienceinPPI2
