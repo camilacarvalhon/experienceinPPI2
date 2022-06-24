@@ -4,7 +4,7 @@
     * [Dependências](#Dependências)
     * [Como executar aplicação na sua máquina](#Como_executar_aplicação_na_sua_máquina)
     * [Como fazer  o deploy da aplicação](#Como_fazer_o_deploy_da_aplicação)
-    * [Autores](#Autores)
+    * [Colaboradora](#Colaboradora)
     * [Link da Aplicação](#link)
 
 ## :rocket: Sobre o Projeto
